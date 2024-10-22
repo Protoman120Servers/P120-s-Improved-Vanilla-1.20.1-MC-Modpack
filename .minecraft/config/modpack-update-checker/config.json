@@ -1,9 +1,9 @@
 {
   "schemaVersion": 9,
   "currentVersion": "1.0.0",
-  "modpackName": "Modpack Name Goes Here",
-  "modpackAuthor": "My Modpack Studio",
-  "modpackReleaseType": "stable",
+  "modpackName": "Improved Vanilla 1.20.1",
+  "modpackAuthor": "ProtoServers",
+  "modpackReleaseType": "testing",
   "updateCheckerId": "https://github.com/Protoman120Servers/P120-s-Improved-Vanilla-1.20.1-MC-Modpack/tree/testing": {
     "bccEnabled": false,
     "expandButton": false,
