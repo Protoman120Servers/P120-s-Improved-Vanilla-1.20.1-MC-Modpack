@@ -4,7 +4,7 @@
   "modpackName": "Improved Vanilla 1.20.1",
   "modpackAuthor": "ProtoServers",
   "modpackReleaseType": "stable",
-  "updateCheckerId": "https://raw.githubusercontent.com/Modpack-Update-Checker/example-update-checker/main/",
+  "updateCheckerId": "https://github.com/Protoman120Servers/P120-s-Improved-Vanilla-1.20.1-MC-Modpack/tree/testing",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
