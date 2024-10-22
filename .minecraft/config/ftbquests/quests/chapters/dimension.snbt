@@ -1,0 +1,173 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "dimension"
+	group: ""
+	id: "39F629E5281B1D7B"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5FA44460A3BA4F8F"
+			tasks: [{
+				dimension: "astral_dimension:astral_dimension"
+				icon: {
+					Count: 1
+					id: "astral_dimension:astral_amulet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "69F1931A00D79D0F"
+				title: "Astral Dimension"
+				type: "dimension"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			id: "1B86C02F9BA566A2"
+			tasks: [{
+				dimension: "blue_skies:everbright"
+				icon: "blue_skies:everbright_portal"
+				id: "0ECFF38831AB95B9"
+				title: "Everbright - Blue Skies"
+				type: "dimension"
+			}]
+			x: -6.5d
+			y: -2.0d
+		}
+		{
+			id: "488189674D6C2B81"
+			tasks: [{
+				dimension: "blue_skies:everdawn"
+				icon: "blue_skies:everdawn_portal"
+				id: "29FA38D451CCE05C"
+				title: "Everdawn - Blue Skies"
+				type: "dimension"
+			}]
+			x: -5.0d
+			y: -2.0d
+		}
+		{
+			id: "09D2D7C946B55FAA"
+			tasks: [{
+				dimension: "ad_astra:moon"
+				icon: "ad_astra:moon_globe"
+				id: "16526C503FB44044"
+				title: "Moon - Ad Astra"
+				type: "dimension"
+			}]
+			x: -6.5d
+			y: -0.5d
+		}
+		{
+			id: "6DA37F693C870E4B"
+			tasks: [{
+				dimension: "ad_astra:mars"
+				icon: "ad_astra:mars_globe"
+				id: "5312B376693CE9FE"
+				title: "Mars - Ad Astra"
+				type: "dimension"
+			}]
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			id: "441DAAE921A3F751"
+			tasks: [{
+				dimension: "ad_astra:mercury"
+				icon: "ad_astra:mercury_globe"
+				id: "63B459864167E1C8"
+				title: "Mercury - Ad Astra"
+				type: "dimension"
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			id: "42DA81FA0A5C5F51"
+			tasks: [{
+				dimension: "ad_astra:venus"
+				icon: "ad_astra:venus_globe"
+				id: "7ABC4887F57E732B"
+				title: "Venus - Ad Astra"
+				type: "dimension"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			id: "53EEB3AE101F1C1E"
+			tasks: [{
+				dimension: "ad_astra:glacio"
+				icon: "ad_astra:glacio_globe"
+				id: "64EC90BEBF9EFAC3"
+				title: "Glacio - Ad Astra"
+				type: "dimension"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			id: "5AF381058A7A84CF"
+			tasks: [{
+				dimension: "the_bumblezone:the_bumblezone"
+				icon: {
+					Count: 1
+					id: "the_bumblezone:bumble_bee_chestplate_1"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "355D5F4BC37A24E9"
+				title: "The Bumblezone"
+				type: "dimension"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			id: "5C973FA04FDBD3B4"
+			tasks: [{
+				dimension: "theabyss:the_abyss"
+				icon: "theabyss:eye_of_abyss"
+				id: "5984AC05E0E8957F"
+				title: "The Abyss - The Abyss 2 The Other Side"
+				type: "dimension"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"53EEB3AE101F1C1E"
+				"6DA37F693C870E4B"
+				"441DAAE921A3F751"
+				"09D2D7C946B55FAA"
+				"42DA81FA0A5C5F51"
+				"1B86C02F9BA566A2"
+				"488189674D6C2B81"
+				"5AF381058A7A84CF"
+				"5FA44460A3BA4F8F"
+				"5C973FA04FDBD3B4"
+			]
+			id: "61E886F1519EA135"
+			rewards: [{
+				id: "17F4AC8E85E5927D"
+				item: "armourers_workshop:skin-library-creative"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6A3A07CC92711A9A"
+				points: false
+				title: "All dimensions visited!"
+				type: "xp"
+				value: 1L
+			}]
+			x: -3.5d
+			y: 1.5d
+		}
+	]
+	title: "Dimension"
+}

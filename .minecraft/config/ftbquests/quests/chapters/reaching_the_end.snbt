@@ -1,0 +1,303 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "reaching_the_end"
+	group: ""
+	id: "50B5B7099C9720F2"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "54F088E614A25D49"
+			tasks: [{
+				id: "47C4A497CD60B55C"
+				item: {
+					Count: 1
+					id: "endrem:black_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -9.0d
+			y: -4.0d
+		}
+		{
+			id: "48950B1C9221C318"
+			tasks: [{
+				id: "4E6401CAD1C89AD3"
+				item: {
+					Count: 1
+					id: "endrem:cold_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: -4.0d
+		}
+		{
+			id: "3EA6FBB1668512E8"
+			tasks: [{
+				id: "58F187D478D7A640"
+				item: {
+					Count: 1
+					id: "endrem:corrupted_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			id: "57A1480AAADF08E5"
+			tasks: [{
+				id: "1975661330BC2A42"
+				item: {
+					Count: 1
+					id: "endrem:lost_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -4.0d
+		}
+		{
+			id: "4D13403A743E7E56"
+			tasks: [{
+				id: "0FECAABFD8AE28C0"
+				item: {
+					Count: 1
+					id: "endrem:nether_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			id: "728AA6D0AB876C88"
+			tasks: [{
+				id: "425768F717C3889C"
+				item: {
+					Count: 1
+					id: "endrem:rogue_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			id: "7ACDFF630903F6FE"
+			tasks: [{
+				id: "27BFF5756E603128"
+				item: {
+					Count: 1
+					id: "endrem:old_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			id: "49A8B16F3BE76275"
+			tasks: [{
+				id: "5B26725CC2926528"
+				item: {
+					Count: 1
+					id: "endrem:cursed_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -9.0d
+			y: -2.5d
+		}
+		{
+			id: "67142A05F21E3F99"
+			tasks: [{
+				id: "759A63CB2F603222"
+				item: {
+					Count: 1
+					id: "endrem:evil_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: -2.5d
+		}
+		{
+			id: "74A360689C6BF90B"
+			tasks: [{
+				id: "48D5AD8095C8BDD8"
+				item: {
+					Count: 1
+					id: "endrem:guardian_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			id: "605F53CC57DA4A10"
+			tasks: [{
+				id: "403CEBDF1E9221AA"
+				item: {
+					Count: 1
+					id: "endrem:magical_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			id: "3F4761D5E86C5925"
+			tasks: [{
+				id: "61EC3FDD1E57D99D"
+				item: {
+					Count: 1
+					id: "endrem:wither_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			id: "1B6D4EB5AE97B7EF"
+			tasks: [{
+				id: "1B080320665C6F77"
+				item: {
+					Count: 1
+					id: "endrem:witch_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			id: "0115CC01921776E3"
+			tasks: [{
+				id: "1AE71A19DB821FB6"
+				item: {
+					Count: 1
+					id: "endrem:undead_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			id: "61BD115343CD47B8"
+			tasks: [{
+				id: "54EFA1BC2D87F27F"
+				item: {
+					Count: 1
+					id: "endrem:exotic_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			id: "1AD6E29C480ADA8E"
+			tasks: [{
+				id: "4561ABDC22DDA4FF"
+				item: {
+					Count: 1
+					id: "endrem:cryptic_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"54F088E614A25D49"
+				"48950B1C9221C318"
+				"3EA6FBB1668512E8"
+				"1AD6E29C480ADA8E"
+				"49A8B16F3BE76275"
+				"67142A05F21E3F99"
+				"61BD115343CD47B8"
+				"74A360689C6BF90B"
+				"57A1480AAADF08E5"
+				"605F53CC57DA4A10"
+				"4D13403A743E7E56"
+				"7ACDFF630903F6FE"
+				"728AA6D0AB876C88"
+				"0115CC01921776E3"
+				"1B6D4EB5AE97B7EF"
+				"3F4761D5E86C5925"
+			]
+			id: "613D4A0E895C15CF"
+			rewards: [{
+				id: "01539963F13DB25A"
+				item: "mowziesmobs:earth_talisman"
+				type: "item"
+			}]
+			tasks: [{
+				id: "60298EFA3B7D03A3"
+				points: false
+				type: "xp"
+				value: 1L
+			}]
+			title: "All Ender Eyes Found!"
+			x: -5.0d
+			y: 1.0d
+		}
+	]
+	title: "Ender Eyes"
+}

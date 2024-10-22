@@ -1,0 +1,5 @@
+#Sun Oct 20 01:09:42 CEST 2024
+filmGrainStrength=0.0
+motionblurToggle=false
+normalmapEnabled=true
+vignetteEnabled=false

@@ -1,0 +1,669 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bosses"
+	group: ""
+	id: "2FB1FE89A4F9D72A"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "79898FC4724EC51A"
+			tasks: [{
+				entity: "alexsmobs:void_worm"
+				id: "140660FC033D923A"
+				title: "Void Worm Defeated! - Alex's Mobs"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			id: "0BF94BC18F038389"
+			tasks: [{
+				entity: "born_in_chaos_v1:fallen_chaos_knight"
+				id: "7C3B2B8AAEFD17AD"
+				title: "Fallen Chaos Knight Defeated! - Born In Chaos"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			id: "37D9FD75E73168B1"
+			tasks: [{
+				entity: "born_in_chaos_v1:skeleton_thrasher"
+				id: "5ECB4A93DC854558"
+				title: "Skeleton Thrasher Defeated! - Born In Chaos"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			id: "288B113C793899C3"
+			tasks: [{
+				entity: "born_in_chaos_v1:zombie_bruiser"
+				id: "0085513509304681"
+				title: "Zombie Bruiser Defeated! - Born In Chaos"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			id: "315B661EE2BD19A4"
+			tasks: [{
+				entity: "born_in_chaos_v1:nightmare_stalker"
+				id: "60232FF0B7CE0A51"
+				title: "Nightmare Stalker Defeated! - Born In Chaos"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			id: "3146CBC58308392B"
+			tasks: [{
+				entity: "born_in_chaos_v1:missioner"
+				id: "3CE3469E043748EE"
+				title: "Missionary Defeated! - Born In Chaos"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			id: "036083943874715D"
+			tasks: [{
+				entity: "born_in_chaos_v1:dire_hound_leader"
+				id: "18D7C670612DEE4D"
+				title: "Dire Hound Leader Defeated! - Born In Chaos"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			id: "0BAC9E8B8A615AD4"
+			tasks: [{
+				entity: "born_in_chaos_v1:sir_pumpkinhead_without_horse"
+				id: "53AC25926E635574"
+				title: "Sir Pumpkinhead Defeated! - Born In Chaos"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			id: "09326F3FED253A33"
+			tasks: [{
+				entity: "born_in_chaos_v1:lord_pumpkinhead_head"
+				id: "758197A32A5B498F"
+				title: "Lord Pumpkinhead Defeated! - Born In Chaos"
+				type: "kill"
+				value: 1L
+			}]
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			id: "22FAC9A4CD58C335"
+			tasks: [{
+				entity: "born_in_chaos_v1:supreme_bonescaller_not_despawn"
+				id: "739D3B8F73469049"
+				title: "Supreme Bonescaller Defeated! - Born In Chaos"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			id: "1ECE1FBA85BEEF17"
+			tasks: [{
+				entity: "cataclysm:ender_golem"
+				id: "1524C46993DA3180"
+				title: "Ender Golem Defeated! - L_Ender's Cataclysm"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			id: "3098D99914E3AC8A"
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				id: "4AE012949FA9A6AA"
+				title: "Netherite Monstrosity Defeated! - L_Ender's Cataclysm"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			id: "667A778170915E7B"
+			tasks: [{
+				entity: "cataclysm:ignis"
+				id: "6B2E4393264AB12D"
+				title: "Ignis Defeated! - L_Ender's Cataclysm"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			id: "7069803649B6F788"
+			tasks: [{
+				entity: "cataclysm:ignited_berserker"
+				id: "3406BBD4A270B208"
+				title: "Ignited Berserker Defeated! - L_Ender's Cataclysm"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			id: "33F047D1A646AE74"
+			tasks: [{
+				entity: "cataclysm:ignited_revenant"
+				id: "125B55FD4C2DEBCA"
+				title: "Ignited Revenant Defeated! - L_Ender's Cataclysm"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			id: "7D09A6F03A9D0E99"
+			tasks: [{
+				entity: "cataclysm:ender_guardian"
+				id: "630843FC25004024"
+				title: "Ender Guardian Defeated! - L_Ender's Cataclysm"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			id: "669C5B854A7A88B3"
+			tasks: [{
+				entity: "cataclysm:the_prowler"
+				id: "4C9B130997DA786B"
+				title: "The Prowler Defeated! - L_Ender's Cataclysm"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.5d
+			y: -1.5d
+		}
+		{
+			id: "66AA3A5A9CE453E9"
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				id: "59F5E26F930071FC"
+				title: "The Harbinger Defeated! - L_Ender's Cataclysm"
+				type: "kill"
+				value: 1L
+			}]
+			x: 7.0d
+			y: -1.5d
+		}
+		{
+			id: "578C456BB46B4DA9"
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				id: "1D5791DB71CFF25B"
+				title: "The Leviathan Defeated! - L_Ender's Cataclysm"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			id: "0C8ABD617B7C32B0"
+			tasks: [{
+				entity: "cataclysm:deepling_brute"
+				id: "39E645658F4B0B88"
+				title: "Deepling Brute Defeated! - L_Ender's Cataclysm"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			id: "31899B923BCB35FF"
+			tasks: [{
+				entity: "cataclysm:deepling_priest"
+				id: "53AE08C3E9CF83F2"
+				title: "Deepling Priest Defeated! - L_Ender's Cataclysm"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "1C6CA73788CCF649"
+			tasks: [{
+				entity: "cataclysm:deepling_warlock"
+				id: "14E45A56101B3192"
+				title: "Deepling Warlock Defeated! - L_Ender's Cataclysm"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			id: "10321DC87D685264"
+			tasks: [{
+				entity: "cataclysm:coral_golem"
+				id: "2C4093F94F9ECC41"
+				title: "Coral Golem Defeated! - L_Ender's Cataclysm"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "2610A0BA8A7D5066"
+			tasks: [{
+				entity: "cataclysm:coralssus"
+				id: "52253DFDF0A37719"
+				title: "Coralssus Defeated! - L_Ender's Cataclysm"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			id: "2158E41B89EF2532"
+			tasks: [{
+				entity: "cataclysm:amethyst_crab"
+				id: "648537B505047E30"
+				title: "Amethyst Crab Defeated! - L_Ender's Cataclysm"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "1788CA6B80085B8D"
+			tasks: [{
+				entity: "cataclysm:kobolediator"
+				id: "18C59AA9BD1B52F9"
+				title: "Kobolediator Defeated! - L_Ender's Cataclysm"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			id: "0671246F1C53DF30"
+			tasks: [{
+				entity: "cataclysm:wadjet"
+				id: "09C745196E2A7A41"
+				title: "Wadjet Defeated! - L_Ender's Cataclysm"
+				type: "kill"
+				value: 1L
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			id: "2EBF9950297D15AC"
+			tasks: [{
+				entity: "cataclysm:ancient_remnant"
+				id: "788449C20F5DE107"
+				title: "Ancient Remnant Defeated! - L_Ender's Cataclysm"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: 1.5d
+		}
+		{
+			id: "4703E386EE3C92B7"
+			tasks: [{
+				entity: "cataclysm:modern_remnant"
+				id: "387CEE575B57A7F8"
+				title: "Modern Remnant Defeated! - L_Ender 's Cataclysm"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"10321DC87D685264"
+				"2610A0BA8A7D5066"
+				"0C8ABD617B7C32B0"
+				"31899B923BCB35FF"
+				"1C6CA73788CCF649"
+				"036083943874715D"
+				"1ECE1FBA85BEEF17"
+				"2158E41B89EF2532"
+				"7D09A6F03A9D0E99"
+				"0BF94BC18F038389"
+				"667A778170915E7B"
+				"7069803649B6F788"
+				"33F047D1A646AE74"
+				"1788CA6B80085B8D"
+				"09326F3FED253A33"
+				"3146CBC58308392B"
+				"4703E386EE3C92B7"
+				"3098D99914E3AC8A"
+				"315B661EE2BD19A4"
+				"0BAC9E8B8A615AD4"
+				"37D9FD75E73168B1"
+				"22FAC9A4CD58C335"
+				"66AA3A5A9CE453E9"
+				"578C456BB46B4DA9"
+				"669C5B854A7A88B3"
+				"79898FC4724EC51A"
+				"0671246F1C53DF30"
+				"288B113C793899C3"
+				"23630DCFCFFDA626"
+				"6C9BD7AF9EE9AB21"
+				"3FEA36B9138246FB"
+				"62A5D566A555C002"
+				"630632DE101C6CA1"
+				"51099142A02E34BF"
+				"3DA33EAC0BFCC586"
+				"21F2F7565FC87307"
+				"03E7FE1250A537B6"
+				"60FD6D0F8FAB250F"
+				"5F3DD181972B1D6A"
+				"4CCC7743E58CE20F"
+				"126D12134EC9FC8E"
+				"7B740D97DD0E24AF"
+				"7331FD9404D0074A"
+				"1DEEA2BD352091B2"
+				"24C21EB94D117640"
+				"222C7AF2CFFD2AA3"
+				"11E863A0267E7021"
+				"2EBF9950297D15AC"
+			]
+			id: "6BD431FB509E0D19"
+			rewards: [
+				{
+					id: "682076F5EC8C4476"
+					item: "mowziesmobs:grant_suns_blessing"
+					type: "item"
+				}
+				{
+					id: "367362ECEED1E688"
+					item: {
+						Count: 1
+						id: "ironjetpacks:jetpack"
+						tag: {
+							Id: "ironjetpacks:creative"
+							Throttle: 1.0d
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "58A73D738C5E794C"
+				points: false
+				title: "ALL BOSSES DEFEATED!!!"
+				type: "xp"
+				value: 1L
+			}]
+			x: 11.5d
+			y: 1.5d
+		}
+		{
+			id: "6C9BD7AF9EE9AB21"
+			tasks: [{
+				entity: "minecraft:wither"
+				id: "31AA3EB7E9852A99"
+				title: "Wither Defeated!"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			id: "23630DCFCFFDA626"
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				id: "401EFC12934F147E"
+				title: "Ender Dragon Defeated!"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			id: "3FEA36B9138246FB"
+			tasks: [{
+				entity: "mowziesmobs:frostmaw"
+				id: "705EE82A5CF02958"
+				title: "Frostmaw Defeated! - Mowzie's Mobs"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			id: "62A5D566A555C002"
+			tasks: [{
+				entity: "mowziesmobs:umvuthi"
+				id: "5457FD8557703643"
+				title: "Umvuthi, the Sunbird Defeated! - Mowzie's Mobs"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			id: "630632DE101C6CA1"
+			tasks: [{
+				entity: "mowziesmobs:ferrous_wroughtnaut"
+				id: "576EBC5630EE2A86"
+				title: "Ferrous Wroughtnaut Defeated! - Mowzie's Mobs"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			id: "51099142A02E34BF"
+			tasks: [{
+				entity: "mutantmonsters:mutant_zombie"
+				id: "6DCD094FE87DC385"
+				title: "Mutant Zombie Defeated! - Mutant Monsters"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			id: "3DA33EAC0BFCC586"
+			tasks: [{
+				entity: "mutantmonsters:mutant_skeleton"
+				id: "3CAE329C7BC86871"
+				title: "Mutant Skeleton Defeated! - Mutant Monsters"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			id: "03E7FE1250A537B6"
+			tasks: [{
+				entity: "mutantmonsters:mutant_creeper"
+				id: "457EC2AC9E7916D9"
+				title: "Mutant Creeper Defeated! - Mutant Monsters"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			id: "21F2F7565FC87307"
+			tasks: [{
+				entity: "mutantmonsters:mutant_enderman"
+				id: "661450E9632E5B2A"
+				title: "Mutant Enderman Defeated! - Mutant Monsters"
+				type: "kill"
+				value: 1L
+			}]
+			x: 7.0d
+			y: 1.5d
+		}
+		{
+			id: "60FD6D0F8FAB250F"
+			tasks: [{
+				entity: "born_in_chaos_v1:lifestealer_true_form"
+				id: "0EB265416E6F6CDC"
+				title: "Lifestealer Defeated! - Born In Chaos"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: 3.0d
+		}
+		{
+			id: "5F3DD181972B1D6A"
+			tasks: [{
+				entity: "minecraft:warden"
+				id: "4EFCF7FA320DD01C"
+				title: "Warden Defeated!"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			id: "4CCC7743E58CE20F"
+			tasks: [{
+				entity: "undergarden:forgotten_guardian"
+				id: "6E56894E1333DFB0"
+				title: "Forgotten Guardian Defeated! - The Undergarden"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			id: "7331FD9404D0074A"
+			tasks: [{
+				entity: "blue_skies:starlit_crusher"
+				id: "1FD6211C47892375"
+				title: "Starlit Crusher Defeated! - Blue Skies"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			id: "1DEEA2BD352091B2"
+			tasks: [{
+				entity: "blue_skies:summoner"
+				id: "0D7C283A1A24CB31"
+				title: "Summoner Defeated! - Blue Skies"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			id: "126D12134EC9FC8E"
+			tasks: [{
+				entity: "blue_skies:alchemist"
+				id: "7697AF6BBD7F1EB7"
+				title: "Alchemist Defeated! - Blue Skies"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			id: "7B740D97DD0E24AF"
+			tasks: [{
+				entity: "blue_skies:arachnarch"
+				id: "010FA4AA06177199"
+				title: "Arachnarch Defeated! - Blue Skies"
+				type: "kill"
+				value: 1L
+			}]
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			id: "24C21EB94D117640"
+			tasks: [{
+				entity: "irons_spellbooks:dead_king"
+				id: "71F36E8652CFE42B"
+				title: "The Dead King Defeated! - Iron's Spells 'n Spellbooks"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: 4.5d
+		}
+		{
+			id: "222C7AF2CFFD2AA3"
+			tasks: [{
+				entity: "theabyss:crystal_golem"
+				id: "06002DD99CC219D1"
+				title: "Crystal Golem Defeated! - The Abyss 2 The Other Side"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.5d
+			y: 4.5d
+		}
+		{
+			id: "11E863A0267E7021"
+			tasks: [{
+				entity: "theabyss:the_roka"
+				id: "544F8D298696A127"
+				title: "The Roka Defeated! - The Abyss 2 The Other Side"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 4.5d
+		}
+	]
+	title: "Bosses"
+}

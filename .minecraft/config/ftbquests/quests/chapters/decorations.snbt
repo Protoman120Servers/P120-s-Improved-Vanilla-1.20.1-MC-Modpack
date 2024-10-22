@@ -1,0 +1,465 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "decorations"
+	group: ""
+	id: "08E83F570B9D25D1"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"67BC235462E29818"
+				"5B28F586593DF114"
+				"59C7059B4FAC479A"
+				"568B9C23170ADA4D"
+			]
+			dependency_requirement: "one_completed"
+			id: "2DB787D1464CC1C4"
+			tasks: [{
+				id: "74369EE640273C29"
+				item: "chipped:botanist_workbench"
+				type: "item"
+			}]
+			x: 13.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"26480B3047A054BC"
+				"253849B4C39C48CB"
+			]
+			dependency_requirement: "one_completed"
+			id: "6DB48BB52E0DC739"
+			tasks: [{
+				id: "312F992248F2717E"
+				item: "chipped:glassblower"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["64786F92CAB1037D"]
+			id: "769E980EB7FFE0BC"
+			tasks: [{
+				id: "7E1A7E1AFCA1D4C6"
+				item: "chipped:carpenters_table"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"13E4AED155AFFE6C"
+				"354FF8A54560B5E3"
+			]
+			dependency_requirement: "one_completed"
+			id: "5EB5E982EE444DD7"
+			tasks: [{
+				id: "1C036BCA3DC8ACA7"
+				item: "chipped:loom_table"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"3686FD6E00745713"
+				"2B00EFF4D3661EF8"
+				"6F51C10FC1D8D720"
+				"341067C9DD2AED3A"
+				"4F6AF7767ADF5219"
+				"3A05ED2944F3A0AA"
+			]
+			dependency_requirement: "one_completed"
+			id: "41A6F66505D6B2C5"
+			tasks: [{
+				id: "28E1F74D391EDBDD"
+				item: "chipped:mason_table"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"547C0B47B9217F57"
+				"6E3576225583EBF0"
+				"46CDC95CEB571FD0"
+				"0869EF3AA3E6F797"
+				"29DD2FE3FF50C1D8"
+			]
+			dependency_requirement: "one_completed"
+			id: "511374A367B5C067"
+			tasks: [{
+				id: "5AAAFCB5894A8F77"
+				item: "chipped:alchemy_bench"
+				type: "item"
+			}]
+			x: 17.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"1AE684A3514B7773"
+				"593DF12D851AAD45"
+				"57E697390BA71C23"
+				"2067C8FF89767547"
+			]
+			dependency_requirement: "one_completed"
+			id: "1EEE84C3FAF2C410"
+			tasks: [{
+				id: "57C5613682ABB906"
+				item: "chipped:tinkering_table"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3686FD6E00745713"]
+			id: "24E547A324BE5D70"
+			tasks: [{
+				id: "17A9F403B6B26EB9"
+				item: "mcwbridges:cobblestone_bridge"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["24E547A324BE5D70"]
+			id: "1A40733948CC0CBE"
+			tasks: [{
+				id: "24419C30A83BBBAE"
+				item: "mcwbridges:pliers"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["24E547A324BE5D70"]
+			id: "068D0FC0B192E3A1"
+			tasks: [{
+				id: "058E1F4BD0096F61"
+				item: "mcwbridges:bridge_torch"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["24E547A324BE5D70"]
+			id: "3CB7B4200DBF02C5"
+			tasks: [{
+				id: "5BB7533EBFBEF8EC"
+				item: "mcwbridges:bridge_lantern"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3686FD6E00745713"]
+			id: "0317738C4A90866D"
+			tasks: [{
+				id: "486D821CFDA8D4B8"
+				item: "mcwroofs:cobblestone_roof"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["0317738C4A90866D"]
+			id: "6BF230026914AB32"
+			tasks: [{
+				id: "1640282174130724"
+				item: "mcwroofs:roofing_hammer"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -6.5d
+		}
+		{
+			id: "1AE684A3514B7773"
+			tasks: [{
+				id: "5233405D01D539A8"
+				item: "minecraft:redstone_torch"
+				type: "item"
+			}]
+			x: 9.0d
+			y: -1.5d
+		}
+		{
+			id: "593DF12D851AAD45"
+			tasks: [{
+				id: "7576AD76D2AB5F65"
+				item: "minecraft:redstone_lamp"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -1.5d
+		}
+		{
+			id: "64786F92CAB1037D"
+			tasks: [{
+				id: "22A558D261B871CF"
+				item: "minecraft:oak_planks"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			id: "26480B3047A054BC"
+			tasks: [{
+				id: "3E09CDC9BB8E70FC"
+				item: "minecraft:glass"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			id: "253849B4C39C48CB"
+			tasks: [{
+				id: "7F1A6E0E01BDE5B9"
+				item: "minecraft:glass_pane"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			id: "13E4AED155AFFE6C"
+			tasks: [{
+				id: "57BC2042967D9050"
+				item: "minecraft:white_wool"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			id: "3686FD6E00745713"
+			tasks: [{
+				id: "4B15B4B2EDE9596E"
+				item: "minecraft:cobblestone"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			id: "2B00EFF4D3661EF8"
+			tasks: [{
+				id: "4B0CF2B8C2AF8EB0"
+				item: "minecraft:stone"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.5d
+		}
+		{
+			id: "67BC235462E29818"
+			tasks: [{
+				id: "36BB928EFB9ED41E"
+				item: "minecraft:oak_leaves"
+				type: "item"
+			}]
+			x: 12.5d
+			y: -1.5d
+		}
+		{
+			id: "5B28F586593DF114"
+			tasks: [{
+				id: "7E979BB470D1F5F8"
+				item: "minecraft:dirt"
+				type: "item"
+			}]
+			x: 14.5d
+			y: -1.5d
+		}
+		{
+			id: "568B9C23170ADA4D"
+			tasks: [{
+				id: "39D84AFFE2967BC6"
+				item: "minecraft:ice"
+				type: "item"
+			}]
+			x: 14.5d
+			y: 0.0d
+		}
+		{
+			id: "59C7059B4FAC479A"
+			tasks: [{
+				id: "21DCE16B4AFB6A56"
+				item: "minecraft:snow_block"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 0.0d
+		}
+		{
+			id: "341067C9DD2AED3A"
+			tasks: [{
+				id: "51B73AFD74EBECB1"
+				item: "minecraft:white_concrete"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			id: "6F51C10FC1D8D720"
+			tasks: [{
+				id: "4E5C621D7F325D92"
+				item: "minecraft:sandstone"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			id: "354FF8A54560B5E3"
+			tasks: [{
+				id: "559CC5996A6EDEED"
+				item: "minecraft:white_carpet"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "4F6AF7767ADF5219"
+			tasks: [{
+				id: "7104EF6B3FBE06A8"
+				item: "minecraft:nether_bricks"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			id: "3A05ED2944F3A0AA"
+			tasks: [{
+				id: "2C2D022206D62D42"
+				item: "minecraft:magma_block"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			id: "57E697390BA71C23"
+			tasks: [{
+				id: "4C559E893C367370"
+				item: "minecraft:redstone_block"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			id: "2067C8FF89767547"
+			tasks: [{
+				id: "65E7F2893BC9244B"
+				item: "minecraft:lantern"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 0.0d
+		}
+		{
+			id: "547C0B47B9217F57"
+			tasks: [{
+				id: "3EF3BB68F19CA8E6"
+				item: "minecraft:iron_block"
+				type: "item"
+			}]
+			x: 16.0d
+			y: -1.5d
+		}
+		{
+			id: "6E3576225583EBF0"
+			tasks: [{
+				id: "218A536D93388C0C"
+				item: "minecraft:gold_block"
+				type: "item"
+			}]
+			x: 17.5d
+			y: -1.5d
+		}
+		{
+			id: "46CDC95CEB571FD0"
+			tasks: [{
+				id: "328E65FEE39F13C4"
+				item: "minecraft:diamond_block"
+				type: "item"
+			}]
+			x: 19.0d
+			y: -1.5d
+		}
+		{
+			id: "0869EF3AA3E6F797"
+			tasks: [{
+				id: "5332C2FD142836E3"
+				item: "minecraft:amethyst_block"
+				type: "item"
+			}]
+			x: 16.5d
+			y: 0.0d
+		}
+		{
+			id: "29DD2FE3FF50C1D8"
+			tasks: [{
+				id: "6CD5933B15603F35"
+				item: "minecraft:lapis_block"
+				type: "item"
+			}]
+			x: 18.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"1A6EC6F32B548EAE"
+				"5E8C845D219CAF3E"
+				"3686FD6E00745713"
+			]
+			id: "4ADD72D8B9067F82"
+			tasks: [{
+				id: "4662F23E14799862"
+				item: "fantasyfurniture:furniture_station"
+				type: "item"
+			}]
+			x: 9.0d
+			y: -6.5d
+		}
+		{
+			id: "5E8C845D219CAF3E"
+			tasks: [{
+				id: "6793364B6BA3A13E"
+				item: "minecraft:oak_planks"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -8.5d
+		}
+		{
+			id: "1A6EC6F32B548EAE"
+			tasks: [{
+				id: "5AEF29CC2D651614"
+				item: "minecraft:clay_ball"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -8.5d
+		}
+	]
+	title: "Decorations"
+}

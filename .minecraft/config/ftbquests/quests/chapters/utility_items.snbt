@@ -1,0 +1,528 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "utility_items"
+	group: ""
+	id: "3DE7563AF4800ECB"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7145C4EBCD8FFA2C"
+			tasks: [{
+				id: "6FB7DEF5C198E056"
+				item: {
+					Count: 1
+					id: "travelersbackpack:standard"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["21696FECA60CCCC1"]
+			id: "3998ED90C2399B0B"
+			tasks: [{
+				id: "6822452B7F02C26D"
+				item: "travelersbackpack:blank_upgrade"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7145C4EBCD8FFA2C"]
+			id: "21696FECA60CCCC1"
+			tasks: [{
+				id: "28BF6F2A82BD24B8"
+				item: "travelersbackpack:backpack_tank"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"3998ED90C2399B0B"
+				"07DA8EF56619B289"
+			]
+			id: "032E293462992427"
+			tasks: [{
+				id: "18879260BDDAD338"
+				item: "travelersbackpack:crafting_upgrade"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"3998ED90C2399B0B"
+				"07DA8EF56619B289"
+			]
+			id: "1E155166BA63D958"
+			tasks: [{
+				id: "3CD07A2AC60E7D0C"
+				item: "travelersbackpack:iron_tier_upgrade"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			id: "07DA8EF56619B289"
+			tasks: [{
+				id: "2DCBC2BFCC05CAB7"
+				item: "minecraft:smithing_table"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7145C4EBCD8FFA2C"]
+			id: "67CAEF99C2BCF903"
+			tasks: [{
+				id: "41EBCA95D2389106"
+				item: {
+					Count: 1
+					id: "travelersbackpack:iron"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7145C4EBCD8FFA2C"]
+			id: "22734EE2412C577F"
+			tasks: [{
+				id: "703F5EE802712D52"
+				item: {
+					Count: 1
+					id: "travelersbackpack:spider"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"75793E61CDB65399"
+				"5BFEFC0D57E80876"
+			]
+			id: "78346E462A1167E8"
+			tasks: [{
+				id: "3D939B71C14D2FD5"
+				item: {
+					Count: 1
+					id: "waystones:warp_stone"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["78346E462A1167E8"]
+			id: "3378151E70DD46B3"
+			tasks: [{
+				id: "57AF3AAC0FE46D3C"
+				item: "waystones:waystone"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5BFEFC0D57E80876"]
+			id: "3D59FD986102335A"
+			tasks: [{
+				id: "6AA6D23CE08BE310"
+				item: "elevatorid:elevator_white"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			id: "4DEAF405CD40A297"
+			tasks: [{
+				id: "5380C7A3D6F5EFDC"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4DEAF405CD40A297"]
+			id: "5C192F1E18657978"
+			tasks: [{
+				id: "391EF3F8AC9F3262"
+				item: "ironchest:iron_chest"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5C192F1E18657978"]
+			id: "11EB8B0CF049ECF8"
+			tasks: [{
+				id: "3DF01F853FDE1E46"
+				item: "ironchest:gold_chest"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["11EB8B0CF049ECF8"]
+			id: "4FBA7FD5EA8E1C8B"
+			tasks: [{
+				id: "07DC3DBA19B25670"
+				item: "ironchest:diamond_chest"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			id: "5BFEFC0D57E80876"
+			tasks: [{
+				id: "55C88870202F67EA"
+				item: "minecraft:ender_pearl"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "75793E61CDB65399"
+			tasks: [{
+				id: "625B952F2BAC773C"
+				item: "minecraft:amethyst_shard"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "4DA462A801201D29"
+			tasks: [{
+				id: "75AFF98BD20EDFD8"
+				item: "minecraft:enchanting_table"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4DA462A801201D29"]
+			id: "1EB665FB970EF564"
+			tasks: [{
+				id: "508914051E989B30"
+				item: "disenchanting:disenchanter"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5BFEFC0D57E80876"]
+			id: "4B4FEDF2B201A7C9"
+			tasks: [{
+				id: "26A1C74FE2F6A871"
+				item: "minecraft:ender_eye"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["4B4FEDF2B201A7C9"]
+			id: "6A61337FBA75FE57"
+			tasks: [{
+				id: "49EE4A4B5769B8C2"
+				item: {
+					Count: 1
+					id: "telepass:gold_telepass"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["4B4FEDF2B201A7C9"]
+			id: "63559A9FC7B10102"
+			tasks: [{
+				id: "22EB66657867096A"
+				item: {
+					Count: 1
+					id: "telepass:diamond_telepass"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["5BFEFC0D57E80876"]
+			id: "031A756AF5381BA1"
+			tasks: [{
+				id: "388B0368E207AF8A"
+				item: {
+					Count: 1
+					id: "xpbook:xp_tome"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.5d
+		}
+		{
+			id: "15C9A67750908B45"
+			tasks: [{
+				id: "5C54A48A2409FD6E"
+				item: "minecraft:leather"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["15C9A67750908B45"]
+			id: "77CDB0F0B14A0EB8"
+			tasks: [{
+				id: "78E31CC3FB6EBAE9"
+				item: "usefulbackpacks:backpack_small"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["77CDB0F0B14A0EB8"]
+			id: "43186A66180B8F0D"
+			tasks: [{
+				id: "483C691A55411650"
+				item: "usefulbackpacks:backpack_medium"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["43186A66180B8F0D"]
+			id: "5F4BC8FCA15BB71D"
+			tasks: [{
+				id: "7E22240A2D85CA03"
+				item: "usefulbackpacks:backpack_large"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["61B58CED11BA4247"]
+			id: "40D47138F3BF740B"
+			tasks: [{
+				id: "746DE7614C761138"
+				item: "armourers_workshop:skin-library-global"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["61B58CED11BA4247"]
+			id: "14247A89AA1B3D64"
+			tasks: [{
+				id: "29EB894202C29542"
+				item: "armourers_workshop:skin-template"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["14247A89AA1B3D64"]
+			id: "4489234B9ECDB9BE"
+			tasks: [{
+				id: "2C2ED48303CC669E"
+				item: "armourers_workshop:skin-library"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["45EAABA8639A32A4"]
+			id: "61B58CED11BA4247"
+			tasks: [{
+				id: "18C44C9B5CCEA9F4"
+				item: "armourers_workshop:skin-cube"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 4.0d
+		}
+		{
+			id: "45EAABA8639A32A4"
+			tasks: [{
+				id: "3CAD4C68C1914ED0"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 4.0d
+		}
+		{
+			id: "48ADF18F9DF89DE7"
+			tasks: [{
+				id: "4E09E64F3B4DCC7B"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["48ADF18F9DF89DE7"]
+			id: "3B6A1F9BAC21882C"
+			tasks: [{
+				id: "70608A8F756CB3F0"
+				item: "toms_trading_network:vending_machine"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 8.5d
+		}
+		{
+			id: "5CD69EADD78D3B98"
+			tasks: [{
+				id: "5D67DE86D17915EC"
+				item: "minecraft:hopper"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5CD69EADD78D3B98"]
+			id: "5F27033C7FD9A53B"
+			tasks: [{
+				id: "3F1A4484298CB4E4"
+				item: "goldenhopper:golden_hopper"
+				type: "item"
+			}]
+			x: 18.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5CD69EADD78D3B98"]
+			id: "141C81F415823AC4"
+			tasks: [{
+				id: "7645DB36882DB679"
+				item: "uppers:upper"
+				type: "item"
+			}]
+			x: 18.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["2BAA89E93D55175F"]
+			id: "46232220FBBB0F56"
+			tasks: [{
+				id: "1ADFCB6FB70B5925"
+				item: "flopper:flopper"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 11.0d
+		}
+		{
+			id: "2BAA89E93D55175F"
+			tasks: [{
+				id: "3067E0879CB991C7"
+				item: "minecraft:bucket"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 11.0d
+		}
+		{
+			id: "289497C42D117D20"
+			tasks: [{
+				id: "5D622B506D7A181A"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["289497C42D117D20"]
+			id: "2C8C6F208A9BD733"
+			tasks: [{
+				id: "47FF4596EEC22258"
+				item: "quark:pipe"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["5BFEFC0D57E80876"]
+			id: "3E1FD4E34EF4D50D"
+			tasks: [{
+				id: "5CAF8AED67C561EE"
+				item: {
+					Count: 1
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/enderman"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5BFEFC0D57E80876"]
+			id: "5DA2A0BC97D7BD77"
+			tasks: [{
+				id: "707113BC8E1DBF62"
+				item: {
+					Count: 1
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:basic/slime"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 8.5d
+		}
+	]
+	title: "Utility Items"
+}
